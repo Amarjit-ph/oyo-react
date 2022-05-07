@@ -1,8 +1,5 @@
 # Oyorooms-clone
-
-We have cloned the Oyorooms Web https://www.oyorooms.com/
-
-We have used MERN Stack for this project.
+UI clone of Oyorooms Web - https://www.oyorooms.com/
 
 # Technology Stack
 
